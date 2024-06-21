@@ -1,4 +1,5 @@
 #include <iostream>
+#include "../Arbol/ArbolBinario.h"
 
 /*
 Reconstruir un árbol binario a partir de los recorridos siguientes:
@@ -16,5 +17,6 @@ Postorden: 6, 5, 10, 9, 1, 13, 12, 2, 8, 3, 11, 7, 4.
 
 int main() {
   std::cout << "Ejercicio 05/02\n" << std::endl;
+
   return 0;
 }

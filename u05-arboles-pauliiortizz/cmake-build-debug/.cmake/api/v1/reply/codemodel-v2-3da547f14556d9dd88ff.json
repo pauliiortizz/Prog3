@@ -1,0 +1,83 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "U05-E01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U05-E01-Debug-7678cf5861b73ab109db.json",
+					"name" : "U05-E01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U05-E02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U05-E02-Debug-6a76a5df8eed428f34f4.json",
+					"name" : "U05-E02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U05-E03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U05-E03-Debug-ec35abbc43d028ce193c.json",
+					"name" : "U05-E03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U05-E04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U05-E04-Debug-dd0545874bb542dc08d4.json",
+					"name" : "U05-E04",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug",
+		"source" : "C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

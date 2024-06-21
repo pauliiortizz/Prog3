@@ -1,6 +1,6 @@
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E01.dir
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E02.dir
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E03.dir
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E04.dir
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/BANGHO/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E01.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E02.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E03.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/U05-E04.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BANGHO/Prog3/u05-arboles-pauliiortizz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

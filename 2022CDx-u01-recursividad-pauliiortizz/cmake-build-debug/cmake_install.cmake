@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/BANGHO/2022CDx-u01-recursividad-pauliiortizz
+# Install script for directory: C:/Users/BANGHO/Prog3/2022CDx-u01-recursividad-pauliiortizz
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/BANGHO/2022CDx-u01-recursividad-pauliiortizz/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/BANGHO/Prog3/2022CDx-u01-recursividad-pauliiortizz/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

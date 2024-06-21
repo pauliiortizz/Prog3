@@ -1,3 +1,0 @@
-C:/Users/BANGHO/Ejercicios/cmake-build-debug/CMakeFiles/Ejercicios.dir
-C:/Users/BANGHO/Ejercicios/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/BANGHO/Ejercicios/cmake-build-debug/CMakeFiles/rebuild_cache.dir

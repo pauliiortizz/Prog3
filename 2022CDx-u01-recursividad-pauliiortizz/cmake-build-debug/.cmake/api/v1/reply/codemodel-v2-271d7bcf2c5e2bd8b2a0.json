@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E01-Debug-8914aaf840f135726149.json",
+					"name" : "U01-E01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E02-Debug-1c98382112282769990f.json",
+					"name" : "U01-E02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E03::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E03-Debug-e38673fcf5b9e7984db8.json",
+					"name" : "U01-E03",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E04-Debug-bb7ab506fd03af85ef91.json",
+					"name" : "U01-E04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E05::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E05-Debug-0acd730b6c33c6eb46ec.json",
+					"name" : "U01-E05",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E06::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E06-Debug-aaaf7833d3b188b42a6b.json",
+					"name" : "U01-E06",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E07::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E07-Debug-09ded137a4ad815a93ab.json",
+					"name" : "U01-E07",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "U01-E08::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-U01-E08-Debug-c249fda3ef919750e97b.json",
+					"name" : "U01-E08",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/BANGHO/Prog3/2022CDx-u01-recursividad-pauliiortizz/cmake-build-debug",
+		"source" : "C:/Users/BANGHO/Prog3/2022CDx-u01-recursividad-pauliiortizz"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

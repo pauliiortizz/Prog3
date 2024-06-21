@@ -1,0 +1,3 @@
+C:/Users/BANGHO/Parcial/cmake-build-debug/CMakeFiles/Parcial.dir
+C:/Users/BANGHO/Parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/BANGHO/Parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
